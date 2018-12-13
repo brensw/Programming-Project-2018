@@ -1,7 +1,7 @@
-# Programming-Project-2018
+# Programming for Data Analysis Project-2018
 
 
-Programming for Analysis Project 
+Programming for Data Analysis Project 
 
 
 This repsoitory conatins information on Box plots and there uses. 
